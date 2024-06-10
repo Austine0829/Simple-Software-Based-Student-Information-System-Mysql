@@ -1,0 +1,9 @@
+C:\Users\Miel\source\repos\GUIExplore#2\GUIExplore#2\x64\Debug\GUIExplore#2.vcxproj.AssemblyReference.cache
+C:\Users\Miel\source\repos\GUIExplore#2\GUIExplore#2\x64\Debug\GUIExplore#2.vcxproj.GenerateResource.cache
+C:\Users\Miel\source\repos\GUIExplore#2\GUIExplore#2\x64\Debug\GUIExplore2.insertForm.resources
+C:\Users\Miel\source\repos\GUIExplore#2\GUIExplore#2\x64\Debug\GUIExplore2.insertInfoFormh.resources
+C:\Users\Miel\source\repos\GUIExplore#2\GUIExplore#2\x64\Debug\GUIExplo.FA65C0A7.Up2Date
+C:\Users\Miel\source\repos\GUIExplore#2\GUIExplore#2\x64\Debug\GUIExplore2.MyForm.resources
+C:\Users\Miel\source\repos\GUIExplore#2\GUIExplore#2\x64\Debug\GUIExplore2.readForm.resources
+C:\Users\Miel\source\repos\GUIExplore#2\GUIExplore#2\x64\Debug\GUIExplore2.updateForm.resources
+C:\Users\Miel\source\repos\GUIExplore#2\GUIExplore#2\x64\Debug\GUIExplore2.deleteForm.resources
